@@ -234,8 +234,8 @@
 
 	// 2050 rules:
 	var bad_da_host_JSON = { "jobthread.com": null,
-"123c.vn": null,
-"24h*-ad.24hstatic.com": null,
+	"123c.vn": null,
+	"24h*-ad.24hstatic.com": null,
 "ad*.24hstatic.com": null,
 "ad.org.vn": null,
 "ad.zing.vn": null,
@@ -1209,7 +1209,7 @@
 "logrocket.io": null,
 "lsosad.com": null,
 "mads*.amazon.com": null,
-"mads"z.com": null,
+"mads*z.com": null,
 "mads.cnet.com": null,
 "mahimeta.com": null,
 "mail-ads.google.com": null,
