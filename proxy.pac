@@ -5792,8 +5792,7 @@ var bad_da_host_JSON = {
 "urgent-notice.com": null,
 "view-apple.com": null,
 "view-appleid.com": null,
-"zhangtom1989.cn": null,
-
+"zhangtom1989.cn": null, };
 
 var bad_da_host_exact_flag = 2050 > 0 ? true : false;  // test for non-zero number of rules
     
